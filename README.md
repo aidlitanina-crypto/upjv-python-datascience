@@ -38,7 +38,7 @@ Python & Data Science réalisés sur Google Colab.
 | TD4  | Travaux dirigés td04 | :white_check_mark: |
 | TD5  | Travaux dirigés td05 | :white_check_mark: |
 | TD6  | Travaux dirigés td06 | :white_check_mark: |
-| TD7  | Marches aléatoires & étude de cas |
+| TD7  | Travaux dirigés td07 | :white_check_mark: | 
 
 ## Crédits
 
