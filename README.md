@@ -35,10 +35,10 @@ Python & Data Science réalisés sur Google Colab.
 | [TD1](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
 | TD3 | Les bases de Python | ✅: |
-| TD4 (td04) | Travaux dirigés td04 | :white_check_mark: |
-| TD5 (td05) | Travaux dirigés td05 | :white_check_mark: |
-| TD6 (td06) | Travaux dirigés td06 | :white_check_mark: |
-| TD7 (td07) | Marches aléatoires & étude de cas | :x: |
+| TD4  | Travaux dirigés td04 | :white_check_mark: |
+| TD5  | Travaux dirigés td05 | :white_check_mark: |
+| TD6  | Travaux dirigés td06 | :white_check_mark: |
+| TD7  | Marches aléatoires & étude de cas |
 
 ## Crédits
 
